@@ -1,0 +1,4 @@
+displayName = Ben10 Example Addon
+author = DestroyerMob
+version = 0.1
+modReferences = Ben10Mod

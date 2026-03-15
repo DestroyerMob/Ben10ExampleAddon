@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ethanhellyer/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10ExampleAddon/Ben10ExampleAddon.csproj",
+      "projectName": "Ben10ExampleAddon",
+      "projectPath": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10ExampleAddon/Ben10ExampleAddon.csproj",
+      "packagesPath": "/Users/ethanhellyer/.nuget/packages/",
+      "outputPath": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10ExampleAddon/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ethanhellyer/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj": {
+              "projectPath": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.419/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

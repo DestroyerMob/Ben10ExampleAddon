@@ -1,0 +1,13 @@
+Items: {
+	ExampleTransformationItem: {
+		Tooltip: ""
+		DisplayName: Example Transformation Item
+	}
+}
+
+Buffs: {
+	ExampleTransformationBuff: {
+		Description: Mods.Ben10ExampleAddon.Buffs.ExampleTransformationBuff.Description
+		DisplayName: Example Transformation Buff
+	}
+}
