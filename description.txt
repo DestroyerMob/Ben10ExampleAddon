@@ -1,1 +1,8 @@
-Modify this file with a description of your mod.
+Ben10 Example Addon is a simple example addon for Ben10Mod.
+
+It is intended as a reference mod for developers who want to create their own Ben10Mod addons.
+
+Requires Ben10Mod to be installed and enabled:
+https://steamcommunity.com/sharedfiles/filedetails/?id=3112814068
+
+Use this mod as a starting point for your own addon content and API integration.
