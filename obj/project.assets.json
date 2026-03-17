@@ -1,12 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Ben10Mod/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Ben10Mod.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ben10Mod.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Ben10Mod/1.0.0": {
+      "type": "project",
+      "path": "../Ben10Mod/Ben10Mod.csproj",
+      "msbuildProject": "../Ben10Mod/Ben10Mod.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj"
+      "Ben10Mod >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -73,16 +90,5 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.419/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for '/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

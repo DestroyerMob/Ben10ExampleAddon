@@ -1,20 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oyArAKUzu+o=",
-  "success": false,
+  "dgSpecHash": "W9UScC1oPKk=",
+  "success": true,
   "projectFilePath": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10ExampleAddon/Ben10ExampleAddon.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for '/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "projectPath": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10ExampleAddon/Ben10ExampleAddon.csproj",
-      "filePath": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10ExampleAddon/Ben10ExampleAddon.csproj",
-      "libraryId": "/Users/ethanhellyer/Library/Application Support/Terraria/tModLoader/ModSources/Ben10Mod/Ben10Mod.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

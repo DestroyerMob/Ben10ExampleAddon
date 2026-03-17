@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ben10ExampleAddon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c3d173a63f771d6bf97d3018eba4a7d4154bb29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e859cdb475209b9c5a71f74599d0025784233a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ben10ExampleAddon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ben10ExampleAddon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

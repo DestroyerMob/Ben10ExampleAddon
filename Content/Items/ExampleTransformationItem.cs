@@ -23,4 +23,10 @@ public class ExampleTransformationItem : ModItem {
         TransformationHandler.AddTransformation(player, "Ben10ExampleAddon:ExampleTransformation");
         return base.UseItem(player);
     }
+
+    public override void AddRecipes() {
+        CreateRecipe()
+            .AddIngredient(ItemID.StoneBlock, 10)
+            .Register();
+    }
 }

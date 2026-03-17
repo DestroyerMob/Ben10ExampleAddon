@@ -3,11 +3,31 @@ Items: {
 		Tooltip: ""
 		DisplayName: Example Transformation Item
 	}
+
+	ExamplePlumbersBadge: {
+		Tooltip: ""
+		DisplayName: Example Plumbers Badge
+	}
+
+	ExampleOmnitrix: {
+		Tooltip: ""
+		DisplayName: Example Omnitrix
+	}
 }
 
 Buffs: {
 	ExampleTransformationBuff: {
 		Description: Mods.Ben10ExampleAddon.Buffs.ExampleTransformationBuff.Description
 		DisplayName: Example Transformation Buff
+	}
+
+	ExampleUltimateTransformationBuff: {
+		DisplayName: Example Ultimate Transformation Buff
+		Description: Mods.Ben10ExampleAddon.Buffs.ExampleUltimateTransformationBuff.Description
+	}
+
+	ExampleCombinationTransformationBuff: {
+		Description: Mods.Ben10ExampleAddon.Buffs.ExampleCombinationTransformationBuff.Description
+		DisplayName: Example Combination Transformation Buff
 	}
 }
